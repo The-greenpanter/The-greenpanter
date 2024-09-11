@@ -10,12 +10,12 @@
 
 ## 🚀 Mis Habilidades
 
+![Commits por día](https://github-readme-streak-stats.herokuapp.com/?user=the-greenpanter&theme=highcontrast)
+![Contribuciones](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-greenpanter&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-greenpanter&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-greenpanter&show_icons=true&theme=radical)
 
-![Contribuciones](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-greenpanter&theme=github_dark)
-![Commits por día](https://github-readme-streak-stats.herokuapp.com/?user=the-greenpanter&theme=highcontrast)
 ![Estadísticas de Forks y Stars](https://github-readme-stats.vercel.app/api/top-langs/?username=the-greenpanter&langs_count=8&theme=highcontrast)
 
 ---
