@@ -37,6 +37,6 @@
 
 ## 🌐 Encuéntrame en la web
 
-- [Portfolio]((https://panterweb.netlify.app/))
+- [Portfolio](https://panterweb.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/juan-diego-pe%C3%B1a-castillo-3145391b3/)
 - [Twitter](https://twitter.com/tu_usuario_twitter)
