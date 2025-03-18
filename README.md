@@ -43,6 +43,7 @@
 ## 🌐 Connect with Me  
 
 - 🌎 **Portfolio**: [panterweb.netlify.app](https://panterweb.netlify.app/)  
-- 💼 **LinkedIn**: [Juan Diego Peña Castillo](https://www.linkedin.com/in/juandiegopc-the-greenpanter/)  
+- 💼 **LinkedIn**: [Juan Diego Peña Castillo](https://www.linkedin.com/in/juandiegopc-the-greenpanter/)
+- 🌐 **Email**: thegreenpanteremail@gmail.com
 
 Let me know if you'd like any more changes! 🚀
