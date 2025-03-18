@@ -30,6 +30,15 @@
 - Built a dynamic and responsive web application using React, TypeScript, and modern front-end technologies.  
 
 ---
+## 🎓 Certifications  
+
+### 🌎 **[EF SET Certificate - C1 Advanced](https://cert.efset.org/es/hiTyDU)**  
+- **Score**: 70/100  
+- **Reading**: C1 Advanced  
+- **Listening**: C2 Proficient  
+- **Issued on**: March 18, 2025  
+
+---
 
 ## 🌐 Connect with Me  
 
