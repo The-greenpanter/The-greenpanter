@@ -31,17 +31,9 @@
 
 ---
 
-## 💼 Professional Experience  
-
-### [Check out my full CV here](https://thegreenpanter.infinityfreeapp.com/)  
-
-- Bilingual (English, Spanish, Italian)  
-- Data Analyst & Fullstack Developer with experience in multiple tech projects.  
-
----
-
 ## 🌐 Connect with Me  
 
 - 🌎 **Portfolio**: [panterweb.netlify.app](https://panterweb.netlify.app/)  
-- 💼 **LinkedIn**: [Juan Diego Peña Castillo]([(https://www.linkedin.com/in/juandiegopc-the-greenpanter/)])  
+- 💼 **LinkedIn**: [Juan Diego Peña Castillo](https://www.linkedin.com/in/juandiegopc-the-greenpanter/)  
 
+Let me know if you'd like any more changes! 🚀
