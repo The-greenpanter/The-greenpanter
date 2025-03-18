@@ -43,5 +43,5 @@
 ## 🌐 Connect with Me  
 
 - 🌎 **Portfolio**: [panterweb.netlify.app](https://panterweb.netlify.app/)  
-- 💼 **LinkedIn**: [Juan Diego Peña Castillo]([https://www.linkedin.com/in/juan-diego-pe%C3%B1a-castillo-3145391b3/](https://www.linkedin.com/in/juandiegopc-the-greenpanter/))  
+- 💼 **LinkedIn**: [Juan Diego Peña Castillo]([(https://www.linkedin.com/in/juandiegopc-the-greenpanter/)])  
 
